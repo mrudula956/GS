@@ -1,0 +1,242 @@
+qa: http://globalsquirrelsuserinterface-env.eba-mak34qea.ap-south-1.elasticbeanstalk.com/employer/submit-request
+dev: http://globalsquirrels-phase2-qa.s3-website.ap-south-1.amazonaws.com/
+
+https://globalsquirrelsqa.denkenites.com/login
+
+dev: http://globalsquirrelsuserinterface-28-05-20231218.ap-south-1.elasticbeanstalk.com/login
+
+attendance: https://sites.google.com/denkensolutions.com/internal-portal/attendance/self-attendance
+
+Mrudula@2024(GitHub)
+mrudula956
+
+http://globalsquirrelsuserinterface-env.eba-mak34qea.ap-south-1.elasticbeanstalk.com/jobseeker/submitprofile
+mrudula@denkensolutions.com
+jennie234@test.cc
+
+test@gmail.cc (Timesheets account in prod)
+dhiraj.chawla@denkensolutions.com
+1234567
+New Accounts
+==============================
+purple.plan100@work.cc
+purple.contractorplan100@work.cc
+blue.squirrel100@work.cc
+orange.plan100@work.cc
+orange.contractor100@work.cc
+
+mrudulatest@test.cc
+praneeth23@test.cc
+test34@test.cc
+contractor_1027@test.cc (Contractor)
+
+performance1@test.rr(customer)
+
+paychange@test.cc(Pay change request)sep month end need to test compulsory
+acct.test001@tt.cc
+acct.test002@tt.cc
+acct.test003@tt.cc
+acct.test004@tt.cc
+password 123456
+acct.test002@tt.cc is account manager
+acct.test005@tt.cc am
+testpayment@work.cc (stripe payment)
+
+eeshwar@test.cc
+
+ org@ge3s.me(test for signup)
+
+payment6@test.cc
+
+Userid: payment1@test.cc (stripe test)
+psd: 123456
+
+Userid: payment2@test.cc (stripe test)
+psd: 123456
+
+Userid:  payment3@test.cc (stripe test)
+Useer id: payment4@test.cc
+
+payment5@test.cc
+orangetest1@test.cc
+stripepayment1@test.cc(pay link)
+
+7013917653
+payment3@test.cc
+
+subscription1@test.cc
+
+timesheet.test002@work.cc
+paytest9999@test.cc
+
+gs52test@denkensolutions.com
+
+pradeepzszs@test.cc
+
+pushkar@testing.cc
+girish21@test.cc
+pratap21@work.cc
+dharani23@test.cc
+karuna@test.cc
+mexico1@test.cc
+c
+mexicoleave@test.cc
+Harini@test.cc
+ranjith@test.cc
+pooja@test.cc
+tarun@test.cc
+kranthi23@test.cc
+dhanush34@test.cc
+timesheet.test801@work.cc
+timesheet.test804@work.cc
+lahari11@test.cc
+lokesh567@test.cc
+abcdef
+pradeepzszs@test.cc
+
+stripepayment3@test.cc
+
+weekly, monthly need to test
+
+http://globalsquirrelsuserinterface-env.eba-mak34qea.ap-south-1.elasticbeanstalk.com/employer/timesheet/
+
+
+
+dhiraj.chawla@denkensolutions.com
+krithi12@test.cc
+kala3456@test.cc
+trinath@test.cc( changed monthly to semi monthly)
+
+http://globalsquirrelsuserinterface-env.eba-mak34qea.ap-south-1.elasticbeanstalk.com/pricing
+
+
+
+
+Monthly timesheets timings manually change need to discuss with beulah
+
+Dev link
+mrudula@denkensolutions.com
+aakash@test.cc
+
+2. applied unpaid leave for 1 day edit as a sick leave front end its not showing anything request leave should be disable.
+
+http://globalsquirrelsuserinterface-28-05-20231218.ap-south-1.elasticbeanstalk.com/
+
+applied 
+once leave request applied we will get notifications for approve,
+
+
+
+Employee Account
+ 
+1. Leave-It should show  Monthly (by default) Country India
+2. In leave request previous month dates should be greyed out only 1week dates can enable to apply for leave
+3. Without select dates leave request should not accept to go further
+4. Mandatory to select leave type and Notes, leave dates
+5. Notify emails each email validations should accept 5 emails
+ 
+
+Paid Leaves
+
+1. Employee opted paid leaves (leave balance should show exact numbers after reducing the opted leaves)
+2. Paid leave quota is 12 leaves should not accept more than 12 leaves 
+3. 
+4. Sat and sun will not consider as leave
+5.
+
+Paid Sick Leave
+
+1. Sick leave quota is 6 leaves should not accept more than 6 leaves
+2. Sick leave saturday and sunday will not consider
+3. For mexico country paid sick leave always should show as 0
+4. united states, canada, 0.5 mexico no sick leaves
+5. 
+
+Unpaid Leave
+1. Sat and sun will not consider as leave
+2. Unpaid leave should show infinity
+3. 
+4.
+5.
+
+Maternity Leave
+1. 180 days
+2. before 180 days it should not accept
+3. after 180 days it should show error message
+4.
+5.
+
+Paternity Leave
+1. 15 days
+2.
+3.
+4.
+5.
+united states, canada, mexico 
+
+
+
+Today's Update: 26-6-24
+1. Tested MS and GS Reminder emails
+2. Tested end to end functionality MS and GS
+3. Tested timesheets
+
+
+
+
+
+customer id: beulah@sophlogic.com
+pwd: Denken102$ (D cap)
+
+Admin id: raj@denkensolutions.com
+pwd: Indida2006! (I caps)
+
+
+
+customer a/c : yamini@test.cc
+
+
+
+Today's Update: 3-7-24
+1. Tested GS end to end
+2. Retested Ui issues in all resolutions both MS and GS
+3. Checked remainder emails
+
+
+
+
+
+sso cant reset password and forgot password should not work
+non sso reset password visible
+
+New customer account
+rinkysingh@test.cc
+pinkysingh@test.cc
+
+
+
+
+subscriptiontest1@test.cc
+subscriptiontest2@test.cc
+subscriptiontest3@test.cc
+subscription4@test.cc
+subscription5@test.cc
+
+
+
+test234@test.rr
+
+test452@test.rr
+
+
+
+MS hourly rate
+Reminder emails GS
+Reminder emails MS
+Bank account Save in stripe page
+
+
+cc emails access to account manager
+jobseeker lo delete option
+
+
