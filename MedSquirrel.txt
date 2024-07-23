@@ -1,0 +1,140 @@
+medsquirrel
+mrudula@work.cc
+1234567
+
+
+Medsquirrelsqa.denkenites.com
+
+https://medsquirrelsqa.denkenites.com/job-seeker/add-profile
+
+Sample Admin Credentials:
+Email: admin.qa@medsquirrels.com    
+Password: 123456
+https://medsquirrelsqa.denkenites.com/login
+
+You, Tue 3:20 PM
+Sample Customer credentials:
+Email: customer.qa@medsquirrels.com
+Password: 123456
+
+Signup
+jobseeker signup 
+plans
+request submitted popup
+404
+verify account
+forget 
+reset
+thank you
+hire remote
+facility provider
+
+
+1. 2 new c
+1 resource terminate 
+
+
+9966777772
+
+OT regular = 1.5 * regular hourly pay
+weekly hourly pay = 2nd screen taxable hours * days * 5th screen hourly pay
+
+globalsquirrels-phase2-qa.s3-website.ap-south-1.amazonaws.com/login
+
+pranathi@tesr.rr (gs customer)  delayed task scenario 
+saranya@tt.cc( weekly)
+praveen@work.cc (semi weekly) checking tomorrow
+tanvi@work.cc(monthly
+eshwar@work.cc
+kartik23@test.rr (employee)
+keerhi89@test.kk (employee)
+
+
+
+pradeep@work.cc (gs customer)
+mrudula1@test.rr(weekly)
+ravindra@test.rr (semi-monthly)
+chandrika1@test.rr(monthly)
+
+ameerkhan@tt.cc(gs customer)
+shanker21@test.rr(employee)
+josw@test.cc(employee)
+radhika09@test.rr (employee) MS
+devika23@test.rr
+
+Assign task
+important scenario
+1.blue plan resource will not show anywhere
+2.weekly default ( drop down)
+semi monthly, monthly
+monthly only monthly
+Terminated candidate should not show
+
+3.timesheet 2 task and added task
+4. completed task : timesheet 
+
+Timesheet1
+Task1 - not finished
+Timesheet2
+Task1 - completed
+Timesheet3
+Task - should not show
+
+1.weekly timesheet may 31 added task this task should populate in next week
+
+2. 3 pending items completed 2 1 pending this will effect in next week timesheet
+
+3. completed all pending tasks in next timesheet it should not show any items
+
+4. tried the dates with weekend 
+
+5. Monthly timesheet done
+
+6. Last task should be able to edit only last task will edit (Recurring)
+
+7. One time task
+
+8. Recurring task: Actual recurring task should 
+not show (one time task edit to recurring its should not show as one time task)
+
+9. Recurring task: Actual end date should show in info icon ( normally in task that month end date is showing)
+
+10. Edit option: Recurring task only last task will edit before it should not have option to edit
+
+11. Last edit task (recurring) if i change date from dec to nov, nov month should show
+
+12. recurring to recurring (DOne) issue in recurring to recurring
+
+13. recurring to one time (Done)
+
+14. one time to recurring (Done)
+
+15. onetime to one time (Done)
+
+16. Customer and employee side paralleli adding the performance cards in customer screen it is showing 7 cards.  Actually it should not show
+
+Filter
+
+. automatic selected pending
+2. only give the start date
+3. only give the end date (Done)
+4. June 30 Select 6/30/24 as the end date before should show (Done)
+5. before 30 (Done) from to
+6. clear filter (Done)
+
+
+
+timesheets:
+based on days worked
+timings need to check
+4 different timesheets will come
+
+invoice (ms ,gs)
+timesheets
+gs jobseeker
+
+hiring cost gs and ms ( stripe amount)
+
+
+
+
